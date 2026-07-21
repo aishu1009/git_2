@@ -1,2 +1,2 @@
-#check test.py
-#you can find question and answer related to python
+# check test.py
+# you can find question and answer related to python
